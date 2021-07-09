@@ -25,9 +25,9 @@ Starter code provided by Georgia Tech Boot Camps.
 --
 
 ## Questions?
-[Find me on Github](https://github.com/hr-ivey)  
-[Email me](mailto:haleyrivey@gmail.com)
+🌲 [Find me on Github](https://github.com/hr-ivey)  
+🌲 [Email me](mailto:haleyrivey@gmail.com)
 
 ---
 ## License
-A
+--

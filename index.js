@@ -14,7 +14,7 @@ ${answers.description}
 - [Usage](#usage)
 - [Credits](#credits)
 - [Tests](#tests)
-- [Questions?](#questions?)
+- [Questions](#questions)
 - [License](#license)
 
 ## Installation
@@ -22,7 +22,7 @@ ${answers.installation}
 
 ## Usage
 ${answers.usage}  
-![Application screenshot](screenshot.png)
+![Application Screencast](screencast.mp4)
 
 ## Credits
 ${answers.contributing}
@@ -30,7 +30,7 @@ ${answers.contributing}
 ## Tests
 ${answers.tests}
 
-## Questions?
+## Questions
 [Find me on Github](https://github.com/${answers.username})  
 [Email me](mailto:${answers.email})
 
